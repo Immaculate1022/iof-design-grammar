@@ -1,7 +1,7 @@
 ---
 name: iof-design-grammar
 description: Guide for understanding and applying the Infinite Optical Fabric (IOF) Design Grammar, a comprehensive systems philosophy for building coherent, interoperable, and transparent AI-native ecosystems. Use this skill to design, implement, and evaluate projects aligned with IOF principles, formalizing recurring architectural signatures and governance primitives.
-license: Complete terms in LICENSE.txt
+license: Complete terms in LICENSE
 ---
 
 # IOF Design Grammar: A Systems Metaphysics for AI-Native Ecosystems
